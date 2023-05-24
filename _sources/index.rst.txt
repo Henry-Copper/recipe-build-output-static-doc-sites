@@ -1,14 +1,10 @@
-.. intellij-tutorial documentation master file, created by
+.. recipe documentation master file, created by
    sphinx-quickstart on Wed May 24 10:59:59 2023.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to intellij-tutorial's documentation!
+Welcome to recipe's documentation!
 =============================================
-
-
-wonderful changes
-
 
 .. toctree::
    :maxdepth: 2
